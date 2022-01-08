@@ -1,0 +1,7 @@
+----------------------------------Using Instance-----------------------
+
+--local mypart = Instance.new ("Part",game.Workspace)
+--mypart.Anchored = true
+--mypart.BrickColor = BrickColor.new ("Really blue")
+--mypart.Position = Vector3.new (5,5,5)
+--mypart.Material = Enum.Material.Neon
